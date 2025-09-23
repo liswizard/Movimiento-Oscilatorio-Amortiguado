@@ -1,0 +1,113 @@
+# =============================================================================
+# Archivos generados por el sistema operativo
+# =============================================================================
+
+# Archivos temporales del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =============================================================================
+# Archivos generados por compilación y ejecución
+# =============================================================================
+
+# Ejecutables y objetos Fortran
+oscilador
+*.exe
+*.o
+*.mod
+*.so
+*.dll
+
+# Archivos de datos generados (opcional - si quieres version control)
+# *.dat
+
+# Archivos de gráficas generadas (opcional)
+# *.png
+# *.pdf
+# *.jpg
+
+# =============================================================================
+# Archivos de entornos virtuales y Python
+# =============================================================================
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de caché de Python
+_pycache_/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# =============================================================================
+# Archivos de editores y IDEs
+# =============================================================================
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Vim
+*.swp
+*.swo
+*~
+
+# =============================================================================
+# Archivos de log y temporales
+# =============================================================================
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# =============================================================================
+# Archivos de backup
+# =============================================================================
+*.bak
+*.backup
+
+# =============================================================================
+# Archivos específicos del proyecto (personalizar según necesidades)
+# =============================================================================
+
+# Si no quieres versionar los datos generados, descomenta:
+# data/resultados_*.dat
+
+# Si no quieres versionar las gráficas, descomenta:
+# figures/*.png
