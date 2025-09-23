@@ -60,7 +60,7 @@ pip3 install numpy matplotlib scipy pytest
 Clonar el Repositorio
 
 bash
-git clone https://github.com/tuusuario/oscilador-amortiguado.git
+git clone https://github.com/liswizard/Movimiento-Oscilatorio.git
 cd oscilador-amortiguado
 
 
