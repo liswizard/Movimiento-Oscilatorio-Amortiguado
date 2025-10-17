@@ -36,13 +36,13 @@ Parámetros utilizados:
 
 ## Características
 
-· ✅ Implementación en Fortran del método Euler-Cromer
-· ✅ Visualización en Python con matplotlib
-· ✅ Análisis de tres regímenes de amortiguamiento
-· ✅ Cálculo de energía disipada por integración numérica
-· ✅ Scripts de automatización para compilación y ejecución
-· ✅ Pruebas unitarias para validación de resultados
-· ✅ Documentación completa y ejemplos de uso
+·  Implementación en Fortran del método Euler-Cromer
+·  Visualización en Python con matplotlib
+·  Análisis de tres regímenes de amortiguamiento
+·  Cálculo de energía disipada por integración numérica
+·  Scripts de automatización para compilación y ejecución
+·  Pruebas unitarias para validación de resultados
+·  Documentación completa y ejemplos de uso
 
 ## Instalación
 
