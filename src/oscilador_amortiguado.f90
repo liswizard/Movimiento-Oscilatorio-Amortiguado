@@ -1,8 +1,6 @@
 ! =============================================================================
 ! Programa: Oscilador Armónico Amortiguado
 ! Método: Euler-Cromer
-! Autor: [Tu nombre]
-! Fecha: [Fecha]
 ! =============================================================================
 
 program oscilador_amortiguado
