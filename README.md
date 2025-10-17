@@ -176,11 +176,11 @@ tmax = 5.0d0     ! Tiempo máximo de simulación (s)
 
 El proyecto incluye pruebas automáticas para:
 
-· ✅ Conservación de la energía
-· ✅ Condiciones iniciales correctas
-· ✅ Comportamiento asintótico del sistema
-· ✅ Estabilidad numérica del método
-· ✅ Formato de archivos de salida
+·  Conservación de la energía
+·  Condiciones iniciales correctas
+·  Comportamiento asintótico del sistema
+·  Estabilidad numérica del método
+·  Formato de archivos de salida
 
 Ejecutar todas las pruebas:
 
